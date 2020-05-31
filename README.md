@@ -1,5 +1,9 @@
 # OpenCore Configuration for Asrock H310M-HDV
 
+OpenCore version used: 0.5.8
+
+macOS version: 10.15.5
+
 Hardware used:
 
 - [Asrock H310M-HDV](http://www.asrock.com/MB/Intel/H310M-HDV/)
